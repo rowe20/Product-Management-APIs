@@ -58,6 +58,6 @@ _DELETE_
 - delete seller
 - delete product
 
-## Want to see the coding?
-- [CLick Here](https://replit.com/@RoshanDavid/OnePiece#index.js) to play it !
-- Total memory of the system
+## Want to see the Screenshots?
+- [CLick Here](https://github.com/rowe20/Product-Management-APIs/tree/main/assignment-4/Postman)!
+
