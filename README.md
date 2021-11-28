@@ -2,7 +2,7 @@
 ## _Product Management APIs ( Using EXPRESS)_
 
 
-[![Build Status](https://github.com/rowe20/Product-Management-APIs/blob/main/assignment-4/app.js)](https://github.com/rowe20/Product-Management-APIs/blob/main/assignment-4/app.js)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/rowe20/Product-Management-APIs/blob/main/assignment-4/app.js)
 ## Emphasis
 
 *The Aim of this app is to show how data is being passed via "Postman" using POST request*  
