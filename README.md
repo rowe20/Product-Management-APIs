@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## Emphasis
 
-*The Aim of this app is to show how data is being passed via "Postman" using POST reuqest*  
+*The Aim of this app is to show how data is being passed via "Postman" using POST request*  
 
 _It is an Assignment given by **VNSGU** ._
 
