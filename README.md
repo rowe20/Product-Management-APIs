@@ -3,6 +3,18 @@
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## Emphasis
+
+*The Aim of this app is to show how data is being passed via "Postman" using POST reuqest*  
+
+_It is an Assignment given by **VNSGU** ._
+
+__It's a simple App ,without MongoDB__
+
+### Requirements
+
+* Nodejs 16.13.0 LTS and above
+* Visual Studio Code or Other Editors
 
 ## SCHEMA:
 _PRODUCT_
